@@ -11,6 +11,9 @@
 # steps once and rerun the exact same process on the data instead of repeating
 # manual Excel clicks each time.
 
+
+# Exercise 1 - Load it
+
 import pandas as pd
 df = pd.read_csv("data/retail_sales.csv")
 

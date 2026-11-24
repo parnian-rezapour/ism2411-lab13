@@ -2,5 +2,6 @@
 Parnian Rezapour
 
 Run with:
+```bash
 cd ism2411-lab13
 python explore.py

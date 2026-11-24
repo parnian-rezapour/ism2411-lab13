@@ -2,4 +2,5 @@
 Parnian Rezapour
 
 Run with:
+cd ism2411-lab13
 python explore.py
